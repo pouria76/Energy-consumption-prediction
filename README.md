@@ -11,4 +11,4 @@ List of Deliverables:
 - Feature engineering: extracting or creating new features from the data that will help achieve the end goal (restrict to a max of 15 features), with statistical reasoning behind the selected features.
 - Building a baseline model: need not use machine learning. Any model built will be evaluated against the baseline model.
 - Building a simple parametric model with a reasonably good fit and explaining the model.
-- Do discuss one possible complex machine learning model and one complex parametric model that you think can be used and why.
+- Discussing one possible complex machine learning model and one complex parametric model that can be used and why.
